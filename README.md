@@ -1,1 +1,1 @@
-# vue-template
+A template.
